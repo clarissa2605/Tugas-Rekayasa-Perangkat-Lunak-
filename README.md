@@ -57,5 +57,10 @@ Tujuan utama dari proyek ini adalah memberdayakan individu dengan membantu merek
  - Setelah perhitungan selesai, Anda dapat mengunduh file CSV yang berisi data jejak karbon Anda untuk disimpan atau dianalisis lebih lanjut. Dengan cara Anda harus menyimpan jejak karbon Anda terlebih dahulu, jika tidak maka fitur unduh data CSV tidak akan tersedia.
  - Klik tombol "Download CSV" untuk mengunduh file tersebut.
 
+## Anggota Kelompok
+Gabriella Koba NIM 230211060014
+Claisty Umboh NIM 230211060023
+Clarissa Maramis NIM 230211060024
+Jeremia Paduli NIM 230211060036
 
 
