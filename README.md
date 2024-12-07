@@ -23,7 +23,6 @@ Tujuan utama dari proyek ini adalah memberdayakan individu dengan membantu merek
    - Mengonversi data ke dalam format yang dapat diunduh dan kemudian disediakan untuk diunduh oleh pengguna.
 
 #### 🖥️Pengembangan Frontend :
-
 1. **Setup Streamlit**
    - Menggunakan Streamlit untuk membuat aplikasi web interaktif yang memungkinkan pengguna memasukkan data jejak karbon dan melihat hasil perhitungan..
 
@@ -35,3 +34,28 @@ Tujuan utama dari proyek ini adalah memberdayakan individu dengan membantu merek
 
 4. **Pengujian:**
    - Menguji aplikasi secara menyeluruh untuk memastikan bahwa semua komponen backend dan frontend berfungsi dengan baik dan sesuai harapan.
+
+## 👩‍🏫Cara Menggunakan
+1. Buka Aplikasi
+ - Unduh file ZIP aplikasi CarbonWISE dengan nama "simple carbon calculator".
+ - Ekstrak file yang sudah diunduh ke perangkat Anda. Pastikan Anda sudah menginstal Python dan mengunduh semua pustaka yang dibutuhkan.
+ - Jalankan aplikasi dengan perintah streamlit run simple_carbon_calculator.py melalui terminal di dalam folder aplikasi.
+ - Setelah itu, aplikasi akan membuka halaman utama yang menampilkan logo dan penjelasan mengenai alasan pengembangan aplikasi ini.
+
+2. Isi Formulir
+ - Setelah membuka aplikasi, Anda akan melihat beberapa kolom yang perlu diisi. Masukkan informasi Anda, seperti nama, tanggal, dan data lainnya yang dibutuhkan untuk menghitung jejak karbon.
+
+3. Masukkan Data Jejak Karbon
+ - Setelah mengisi formulir, masukkan data yang relevan untuk menghitung konsumsi energi dan emisi karbon Anda.
+ - Anda tidak perlu menekan tombol apapun, karena output akan muncul secara otomatis
+
+4. Lihat Hasil Jejak Karbon
+ - Setelah selesai mengisi semua data, aplikasi akan menghitung dan menampilkan hasil jejak karbon Anda dalam bentuk tulisan.
+ - Hasil ini menunjukkan total jejak karbon yang telah Anda hasilkan.
+
+5. Unduh Data CSV
+ - Setelah perhitungan selesai, Anda dapat mengunduh file CSV yang berisi data jejak karbon Anda untuk disimpan atau dianalisis lebih lanjut. Dengan cara Anda harus menyimpan jejak karbon Anda terlebih dahulu, jika tidak maka fitur unduh data CSV tidak akan tersedia.
+ - Klik tombol "Download CSV" untuk mengunduh file tersebut.
+
+
+
