@@ -58,9 +58,9 @@ Tujuan utama dari proyek ini adalah memberdayakan individu dengan membantu merek
  - Klik tombol "Download CSV" untuk mengunduh file tersebut.
 
 ## Anggota Kelompok
-Gabriella Koba NIM 230211060014
-Claisty Umboh NIM 230211060023
-Clarissa Maramis NIM 230211060024
-Jeremia Paduli NIM 230211060036
+1. Gabriella Koba NIM 230211060014
+2. Claisty Umboh NIM 230211060023
+3. Clarissa Maramis NIM 230211060024
+4. Jeremia Paduli NIM 230211060036
 
 
